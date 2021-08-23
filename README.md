@@ -12,7 +12,7 @@ This repo is to store my dissertation file and present my disseration book
 |Name|Link|
 |:--:|:--:|
 |Multiple regression analysis - attendance time|	https://yolandayingying.github.io/CASA0012-Dissertation/html/linear_regression.html|
-|fire Hierarchical clustering|file:///Users/gebeilei/Downloads/Fire_HCluster.html|
+|fire Hierarchical clustering|https://yolandayingying.github.io/CASA0012-Dissertation/html/Fire_HCluster.html|
 |Regression Analysis|	https://zeqiang.fun/CASA0012-Dissertation/jupyterlab/Regression-Research.html|
 |Spatial Pattern Research	|https://zeqiang.fun/CASA0012-Dissertation/jupyterlab/Spatial-Research.html|
 |Map Making in R|	https://rpubs.com/fangzq/UK_ttwa_tmap_making|
